@@ -14,11 +14,18 @@
  ![alt text](https://raw.githubusercontent.com/AppkubeCloud/appkube-architectures/main/LayeredArchitecture.svg)
  
  ## Repository Structure 
- awsx -- Its the main aws extension CLI , that has modular structure to cater any subcommand as plugin.
- awsx-cloudelements --- These repos are plugins for main cli
- awsx-api -- AWS extension API Server  
- awsx-metric -- It provides metric/stats for AWS cloud
- awsx-log -- AWS extension API to cater log related challenges
- awsx-trace -- AWS extension API to cater trace related challenges
- awsx-compliance --AWS extension API for Cloud compliance
- awsx-cost --AWS extension API for Cloud Cost API
+ - awsx -- Its the main aws extension CLI , that has modular structure to cater any subcommand as plugin.
+ 
+ - awsx-cloudelements --- These repos are plugins for main cli
+ 
+ - awsx-api -- AWS extension API Server  
+ 
+ - awsx-metric -- It provides metric/stats for AWS cloud
+ 
+ - awsx-log -- AWS extension API to cater log related challenges
+ 
+ - awsx-trace -- AWS extension API to cater trace related challenges
+ 
+ - awsx-compliance --AWS extension API for Cloud compliance
+ 
+ - awsx-cost --AWS extension API for Cloud Cost API

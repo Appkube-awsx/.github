@@ -7,7 +7,7 @@
  To know more about Appkube platform , please visit -  https://github.com/AppkubeCloud
  
  
- Appkube-awsx organization hold the source code of all AWS cloud related extensions that we write.
+ **Appkube-awsx organization hold the source code of all AWS cloud related extensions that we write.**
  
  Please refer to the below diagram to know details on how Appkube main platform use awsx tools and utilities.
  
